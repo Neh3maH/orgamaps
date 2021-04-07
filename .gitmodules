@@ -1,0 +1,3 @@
+[submodule "libs/HaskellJson"]
+	path = libs/HaskellJson
+	url = https://github.com/Neh3maH/HaskellJson.git
